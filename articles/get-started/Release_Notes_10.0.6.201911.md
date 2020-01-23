@@ -16,6 +16,7 @@ ms.search.scope Operations
 ms.dyn365.ops.version: AX 7.0.0
 ms.search.validFrom: 2019-12-1
 ms.search.industry: cross
+
 ---
 
 # Release Notes for 10.0.6.201911
@@ -62,8 +63,7 @@ ms.search.industry: cross
 - <div>The ability to inherit products and customers based on hierarchies has been implemented. This new feature can be used in active funds and trade allowance agreements to automatically reflect additions to customer and item hierarchies into customers and items grids for these documents.</div>
 ## SPP 10.201911
 ### - Item substitution
-- <div>This software extension to
-the D365FO platform enables replacing items in sales orders based on predefined
+- <div>This software extension to the D365FO platform enables replacing items in sales orders based on predefined
 settings.&nbsp;During sales order generation, the item substitution screen can be
 executed in a similar fashion as how the reservation screen is triggered. When
 the screen is launched, the sales order customer and the line item are used to
