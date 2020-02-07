@@ -12,10 +12,11 @@ ms.service: dynamics-ax-applications
 ms.technology: 
 ms.locale: en-us
 ms.search.region: Global
-ms.search.scope Operations
+ms.search.scope: Operations
 ms.dyn365.ops.version: AX 7.0.0
 ms.search.validFrom: 2019-12-1
 ms.search.industry: cross
+audience: Application User
 
 ---
 
